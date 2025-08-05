@@ -17,30 +17,6 @@ This is more than just a UI tutorial — it's a **full-stack mobile development*
 
 ---
 
-## 🧑‍🍳 App Features Overview
-
-- 🔐 **Authentication** via Clerk (Google / Apple ID supported)
-- 🏠 **Home Screen** to post text & images (from gallery or camera)
-- ❤️ **Like & Comment** system with smooth modal interactions
-- 🔔 **Notifications Tab** for likes & comments
-- 📬 **Messages Tab** with chat history & long-press delete
-- 👤 **Profile Tab** with editable profile modal
-- 🔎 **Search Tab** for trending content
-- 🚪 **Sign Out** that returns to login screen
-
----
-
-## 🧠 What You’ll Learn
-
-- 🛠️ Build a REST API with Express.js & MongoDB
-- 🔐 Implement robust auth with **Clerk**
-- ☁️ Upload & serve images via **Cloudinary**
-- 🛡️ Add rate-limiting, bot detection & security with **Arcjet**
-- 🧪 Use **Git & GitHub** in real-world team workflow (PRs & branches)
-- 📦 Connect everything in a real deployment setup
-
----
-
 ## 📁 .env Setup
 
 ### ⚙️ Backend (`/backend`)
